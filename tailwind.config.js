@@ -22,6 +22,7 @@ module.exports = {
           "100": "rgba(11, 41, 114, 0.05)",
           "200": "rgba(11, 41, 114, 0.1)",
         },
+        
       },
       spacing: {},
       fontFamily: {
